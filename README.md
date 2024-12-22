@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Danis
+- Profile created to search for a job
+- I'll change my profile view soon
