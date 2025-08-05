@@ -11,9 +11,29 @@
 </h1>
 
 ### :man_technologist: About Me :
-At the end of 2022, I started to get interested in programming - I got acquainted with the Python language. I decided to learn a profession in backend development, as I became interested in process automation and application logic.
+I have been studying Python since 2022. At the end of 2022, I became interested in programming and chose the path of Backend development. I was attracted by the automation of processes and the logic of applications. During my independent study and development of several projects, I gained practical experience with modern backend tools and technologies in Python and Django. I strive to develop in the field of automation, optimization and scalable solutions.
 
-During this period I added to my experience with Django, Flask, Celery and asynchronous approaches (Asyncio and AioHttp). Postgres and Sqlite were the main databases in development using ORM. If you take non-relational, Redis has been mastered to a practical minimum. Git and CI/CD for automation.
+---
+
+### Skills and technologies
+- **Programming language:** Python
+- **Framework:** Django, Django REST Framework
+- **Form processing, authentication and authorization:** built-in Django capabilities, JWT, OAuth2
+- **Admin panel:** customization and extension of the Django admin panel
+- **REST API:** design and implementation of API using Django REST Framework
+- **Databases:** PostgreSQL, SQLite; knowledge of SQL, ORM (Django ORM, SQLAlchemy)
+- **Caching and non-relational databases:** Redis (basic knowledge)
+- **Task queues:** Celery, RabbitMQ
+- **Async:** asyncio, aiohttp
+- **Containerization and orchestration:** Docker, Docker Compose
+- **Web servers and proxies:** NGINX (setup for distributing static files, load balancing)
+- **Deployment and automation tools:** Git, CI/CD (GitHub Actions, Jenkins)
+- **Monitoring and logging:** Prometheus, Grafana (basic knowledge), ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Frontend**: HTML5, CSS3, JavaScript (basics), Bootstrap for rapid prototyping and interface styling
+
+---
+### Work experience
+During my studies of technologies, I implemented several projects where I gained practical experience with the specified tools. As part of the projects, I was involved in developing REST API, integrating with external services, automating processes, and optimizing database queries. I also set up application containerization using Docker and ensured their operation via NGINX.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
